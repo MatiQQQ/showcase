@@ -2,7 +2,7 @@
   "name": "wizytowka",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://mbaranski/showcase",
+  "homepage": "http://mbaranski/",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "react": "^16.8.1",
